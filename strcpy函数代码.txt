@@ -1,4 +1,5 @@
 // strcpy函数代码
+// 本地修改2
 char* StrCpy(char* dest, const char* src)
 {
 	assert(dest && src);
